@@ -1,4 +1,5 @@
 // Sample draft data - you can modify this with your actual picks
+// Last updated: May 5, 2024
 const draftData = {
     round1: [
         { pick: 1, team: "Winston's Warriors", player: "Ashton Jeanty", logo: "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png" },
