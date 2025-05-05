@@ -1,0 +1,38 @@
+:root {
+    --nfl-blue: #013369;
+    --nfl-red: #D50A0A;
+}
+
+.bg-nfl-blue {
+    background-color: var(--nfl-blue);
+}
+
+.text-nfl-blue {
+    color: var(--nfl-blue);
+}
+
+.pick-card {
+    transition: transform 0.2s ease-in-out;
+}
+
+.pick-card:hover {
+    transform: translateY(-2px);
+}
+
+.team-logo {
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+}
+
+.pick-number {
+    background-color: var(--nfl-blue);
+    color: white;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+} 
