@@ -41,11 +41,14 @@
     flex-shrink: 0;
 }
 
-.team-logo {
-    width: 40px;
-    height: 40px;
+.player-image {
+    width: 60px;
+    height: 60px;
     margin-right: 1rem;
     flex-shrink: 0;
+    border-radius: 8px;
+    object-fit: cover;
+    border: 2px solid var(--nfl-blue);
 }
 
 .pick-details {
@@ -62,12 +65,4 @@
 .player-name {
     color: #666;
     font-size: 1rem;
-}
-
-.player-image {
-    width: 60px;
-    height: 60px;
-    object-fit: cover;
-    border-radius: 8px;
-    border: 2px solid var(--nfl-blue);
 } 
