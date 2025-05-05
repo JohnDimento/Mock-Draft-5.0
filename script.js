@@ -8,7 +8,7 @@ const draftData = {
         { pick: 4, team: "Dropkick Murphys", player: "Matthew Golden", position: "WR", player_id: "12501", image: "https://sleepercdn.com/content/nfl/players/12501.jpg" },
         { pick: 5, team: "Lil Peanut's Padres", player: "Travis Hunter", position: "WR/CB", player_id: "12530", image: "https://sleepercdn.com/content/nfl/players/12530.jpg" },
         { pick: 6, team: "Watauga Whonsters", player: "Quinshon Judkins", position: "RB", player_id: "12512", image: "https://sleepercdn.com/content/nfl/players/12512.jpg" },
-        { pick: 7, team: "Memphis Jets", player: "Cam Ward", position: "QB", player_id: "12550", image: "https://sleepercdn.com/content/nfl/players/12550.jpg" },
+        { pick: 7, team: "Memphis Jets", player: "Cam Ward", position: "QB", player_id: "12549", image: "https://sleepercdn.com/content/nfl/players/12549.jpg" },
         { pick: 8, team: "Dropkick Murphys", player: "Treveyon Henderson", position: "RB", player_id: "12529", image: "https://sleepercdn.com/content/nfl/players/12529.jpg" },
         { pick: 9, team: "Winston's Warriors", player: "Colston Loveland", position: "TE", player_id: "12517", image: "https://sleepercdn.com/content/nfl/players/12517.jpg" },
         { pick: 10, team: "Highland Hawgs", player: "Kaleb Johnson", position: "RB", player_id: "2967", image: "https://sleepercdn.com/content/nfl/players/2967.jpg" },
@@ -16,18 +16,18 @@ const draftData = {
         { pick: 12, team: "Kilpatty Vegas", player: "Luther Burden", position: "WR", player_id: "12519", image: "https://sleepercdn.com/content/nfl/players/12519.jpg" }
     ],
     round2: [
-        { pick: 13, team: "Winston's Warriors", player: "RJ Harvey", position: "RB", player_id: "12489", image: "https://sleepercdn.com/content/nfl/players/12489.jpg" },
+        { pick: 13, team: "Winston's Warriors", player: "RJ Harvey", position: "RB", player_id: "12488", image: "https://sleepercdn.com/content/nfl/players/12488.jpg" },
         { pick: 14, team: "Rocky Top Rowdies", player: "Cam Skattebo", position: "RB", player_id: "12481", image: "https://sleepercdn.com/content/nfl/players/12481.jpg" },
         { pick: 15, team: "Highland Hawgs", player: "Tyler Warren", position: "TE", player_id: "12518", image: "https://sleepercdn.com/content/nfl/players/12518.jpg" },
         { pick: 16, team: "Highland Hawgs", player: "Jaxson Dart", position: "QB", player_id: "12508", image: "https://sleepercdn.com/content/nfl/players/12508.jpg" },
         { pick: 17, team: "Lil Peanut's Padres", player: "Tre Harris", position: "WR", player_id: "12509", image: "https://sleepercdn.com/content/nfl/players/12509.jpg" },
         { pick: 18, team: "Winston's Warriors", player: "Jayden Higgins", position: "WR", player_id: "12484", image: "https://sleepercdn.com/content/nfl/players/12484.jpg" },
         { pick: 19, team: "Winston's Warriors", player: "Brayshul Tuten", position: "RB", player_id: "12551", image: "https://sleepercdn.com/content/nfl/players/12551.jpg" },
-        { pick: 20, team: "The Dukes", player: "Jack Bech", position: "WR", player_id: "12483", image: "https://sleepercdn.com/content/nfl/players/12483.jpg" },
-        { pick: 21, team: "Memphis Jets", player: "Mason Taylor", position: "TE", player_id: "12498", image: "https://sleepercdn.com/content/nfl/players/12498.jpg" },
+        { pick: 20, team: "The Dukes", player: "Jack Bech", position: "WR", player_id: "12482", image: "https://sleepercdn.com/content/nfl/players/12482.jpg" },
+        { pick: 21, team: "Memphis Jets", player: "Mason Taylor", position: "TE", player_id: "12497", image: "https://sleepercdn.com/content/nfl/players/12497.jpg" },
         { pick: 22, team: "Expiring Goods", player: "Kyle Williams", position: "WR", player_id: "7437", image: "https://sleepercdn.com/content/nfl/players/7437.jpg" },
-        { pick: 23, team: "Lil Peanut's Padres", player: "Jaylin Noel", position: "WR", player_id: "12536", image: "https://sleepercdn.com/content/nfl/players/12536.jpg" },
-        { pick: 24, team: "Rocky Top Rowdies", player: "Pat Bryant", position: "WR", player_id: "12492", image: "https://sleepercdn.com/content/nfl/players/12492.jpg" }
+        { pick: 23, team: "Lil Peanut's Padres", player: "Jaylin Noel", position: "WR", player_id: "12535", image: "https://sleepercdn.com/content/nfl/players/12535.jpg" },
+        { pick: 24, team: "Rocky Top Rowdies", player: "Pat Bryant", position: "WR", player_id: "12491", image: "https://sleepercdn.com/content/nfl/players/12491.jpg" }
     ]
 };
 
