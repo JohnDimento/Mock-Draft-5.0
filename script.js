@@ -1,15 +1,41 @@
 // Sample draft data - you can modify this with your actual picks
 const draftData = {
     round1: [
-        { pick: 1, team: "Bears", player: "Caleb Williams", logo: "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png" },
-        { pick: 2, team: "Commanders", player: "Jayden Daniels", logo: "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png" },
-        { pick: 3, team: "Patriots", player: "Drake Maye", logo: "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png" },
+        { pick: 1, team: "Winston's Warriors", player: "Ashton Jeanty", logo: "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png" },
+        { pick: 2, team: "Winston's Warriors", player: "Tetairoa Mcmillan", logo: "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png" },
+        { pick: 3, team: "DoosBoys", player: "Omarion Hampton", logo: "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png" },
+        { pick: 4, team: "Dropkick Murphys", player: "Matthew Golden", logo: "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png" },
+        { pick: 5, team: "Lil Peanut's Padres", player: "Travis Hunter", logo: "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png" },
+        { pick: 6, team: "Watauga Whonsters", player: "Quinshon Judkins", logo: "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png" },
+        { pick: 7, team: "Memphis Jets", player: "Cam Ward", logo: "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png" },
+        { pick: 8, team: "Dropkick Murphys", player: "Treveyon Henderson", logo: "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png" },
+        { pick: 9, team: "Winston's Warriors", player: "Colston Loveland", logo: "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png" },
+        { pick: 10, team: "Highland Hawgs", player: "Kaleb Johnson", logo: "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png" },
+        { pick: 11, team: "Winston's Warriors", player: "Emeka Egbuka", logo: "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png" },
+        { pick: 12, team: "Kilpatty Vegas", player: "Luther Burden", logo: "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png" },   
+        
         // Add more picks as needed
     ],
     round2: [
-        { pick: 25, team: "Packers", player: "Cooper DeJean", logo: "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png" },
-        { pick: 26, team: "Buccaneers", player: "Troy Fautanu", logo: "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png" },
-        { pick: 27, team: "Cardinals", player: "Kool-Aid McKinstry", logo: "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png" },
+        { pick: 13, team: "Winston's Warriors", player: "RJ Harvey", logo: "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png" },
+        { pick: 14, team: "Rocky Top Rowdies", player: "Cam Skattebo", logo: "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png" },
+        { pick: 15, team: "Highland Hawgs", player: "Tyler Warren", logo: "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png" },
+        { pick: 16, team: "Highland Hawgs", player: "Jaxson Dart", logo: "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png" },
+        { pick: 17, team: "Lil Peanut's Padres", player: "Tre Harris", logo: "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png" },
+        { pick: 18, team: "Winston's Warriors", player: "Jayden Higgins", logo: "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png" },
+        { pick: 19, team: "Winston's Warriors", player: "Brayshul Tuten", logo: "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png" },
+        { pick: 20, team: "The Dukes", player: "Jack Bech", logo: "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png" },
+        { pick: 21, team: "Memphis Jets", player: "Mason Taylor", logo: "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png" },
+        { pick: 22, team: "Expiring Goods", player: "Kyle Williams", logo: "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png" },
+        { pick: 23, team: "Lil Peanut's Padres", player: "Jaylin Noel", logo: "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png" },
+        { pick: 24, team: "Rocky Top Rowdies", player: "Pat Bryant", logo: "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png" },
+
+
+
+
+
+
+
         // Add more picks as needed
     ]
 };
